@@ -49,6 +49,9 @@ h1 {
 .areas.correct .area {
     border: 2px solid #00FF00;
 }
+.areas.correct2 .area {
+    border: 2px solid #0b0fe7;
+}
 .area {
     width: 150px;
     height: 150px;
